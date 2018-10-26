@@ -82,6 +82,11 @@ h3 {
   background: #4aaaa5;
 }
 
+#logoImg {
+	width:150px;
+	height:auto;
+}
+
 nav {
   float: right;
   margin-top: 25px;
